@@ -1,2 +1,2 @@
 # nicholson.bailey
-Model population dynamics between a host and a parasite.
+Model population dynamics of a two-dimensional system representing the relationship between a host and a parasite.
